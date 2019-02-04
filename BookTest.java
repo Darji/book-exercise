@@ -86,9 +86,9 @@ public class BookTest
     @Test
     public void getPages()
     {
-        assertEquals(666, book1.getPages());
-        assertEquals(2042, book2.getPages());
-        assertEquals(74, book3.getPages());
+        assertEquals(666, book1.getpages());
+        assertEquals(2042, book2.getpages());
+        assertEquals(74, book3.getpages());
     }
 
     @Test
