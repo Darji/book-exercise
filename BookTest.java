@@ -18,8 +18,9 @@ import org.junit.Test;
  * your class and figure out why your implementation is not 
  * passing that test.
  *
- * @author  Crosbie
- * @version 0.1alpha
+ *G00261150 Akash Darji 
+ *Feb 4, 2019
+ * 
  */
 public class BookTest
 {
